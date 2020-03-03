@@ -3,9 +3,10 @@
 
 int main ()
 {
-	while (1)
+	while (1){
 		printf ("Bonjour Devops \n");
 	sleep (3);
+	}
 }
 return 0;
 
